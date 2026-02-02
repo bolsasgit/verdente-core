@@ -1,0 +1,1 @@
+# verdente-core
